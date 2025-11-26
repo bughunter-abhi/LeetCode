@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/bughunter-abhi/LeetCode/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/bughunter-abhi/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
